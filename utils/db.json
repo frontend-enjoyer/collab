@@ -1,0 +1,142 @@
+[
+    {
+        "description": "Hackathon for best programmers",
+        "direction": "backend",
+        "email": "secret.anry@gmail.com",
+        "experience_lvl": "junior",
+        "name": "InnoGlobalHack",
+        "skills": [
+            "python",
+            "go",
+            "kotlin"
+        ],
+        "type": "hackathon",
+        "id": "5"
+    },
+    {
+        "description": "Frontend challenges for creative minds",
+        "direction": "frontend",
+        "email": "example.front@gmail.com",
+        "experience_lvl": "middle",
+        "name": "FrontendFrenzy",
+        "skills": [
+            "html/css",
+            "javascript",
+            "react"
+        ],
+        "type": "hackathon",
+        "id": "6"
+    },
+    {
+        "description": "Machine learning competition",
+        "direction": "ml",
+        "email": "ml.guru@gmail.com",
+        "experience_lvl": "senior",
+        "name": "MLMasters",
+        "skills": [
+            "python",
+            "tensorflow",
+            "pytorch"
+        ],
+        "type": "hackathon",
+        "id": "7"
+    },
+    {
+        "description": "UX/UI design sprint",
+        "direction": "ux/ui",
+        "email": "design.pro@gmail.com",
+        "experience_lvl": "junior",
+        "name": "DesignDash",
+        "skills": [
+            "figma",
+            "sketch",
+            "adobe xd"
+        ],
+        "type": "hackathon",
+        "id": "8"
+    },
+    {
+        "description": "Business analytics competition",
+        "direction": "business analytics",
+        "email": "biz.analyst@gmail.com",
+        "experience_lvl": "middle",
+        "name": "BizAnalyze",
+        "skills": [
+            "excel",
+            "sql",
+            "power bi"
+        ],
+        "type": "hackathon",
+        "id": "9"
+    },
+    {
+        "description": "Game development contest",
+        "direction": "gamedev",
+        "email": "game.dev@gmail.com",
+        "experience_lvl": "senior",
+        "name": "GameJam",
+        "skills": [
+            "unity",
+            "c#",
+            "blender"
+        ],
+        "type": "hackathon",
+        "id": "10"
+    },
+    {
+        "description": "Backend development job opening",
+        "direction": "backend",
+        "email": "hr.backend@gmail.com",
+        "experience_lvl": "middle",
+        "name": "BackendBoost",
+        "skills": [
+            "java",
+            "spring",
+            "sql"
+        ],
+        "type": "vacancy",
+        "id": "11"
+    },
+    {
+        "description": "Frontend developer needed",
+        "direction": "frontend",
+        "email": "hr.frontend@gmail.com",
+        "experience_lvl": "junior",
+        "name": "FrontendForce",
+        "skills": [
+            "angular",
+            "typescript",
+            "css"
+        ],
+        "type": "vacancy",
+        "id": "12"
+    },
+    {
+        "description": "Data scientist job",
+        "direction": "ml",
+        "email": "hr.ml@gmail.com",
+        "experience_lvl": "senior",
+        "name": "DataDive",
+        "skills": [
+            "python",
+            "r",
+            "sql"
+        ],
+        "type": "vacancy",
+        "id": "13"
+    },
+    {
+        "description": "UI/UX designer position",
+        "direction": "ux/ui",
+        "email": "hr.design@gmail.com",
+        "experience_lvl": "middle",
+        "name": "DesignExpert",
+        "skills": [
+            "figma",
+            "sketch",
+            "invision"
+        ],
+        "type": "vacancy",
+        "id": "14"
+    }
+]
